@@ -1,0 +1,17 @@
+{
+  "access_provider_type": "ratpanel",
+  "binary": "ratpanel-console.exe",
+  "capability": "deploy",
+  "category": "other",
+  "display_name_key": "provider.ratpanel_console",
+  "icon": "ratpanel.png",
+  "max_core_version": "",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "ratpanel-console",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
